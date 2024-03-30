@@ -1,12 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 고슴이
+고등학생 익명 정보공유 커뮤니티 서비스
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Member
+
+|                  FrontEnd                  |                   FrontEnd                    |                  BackEnd                   |                  BackEnd                   |
+| :-----------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/89523520?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/100302974?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/84136901?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/105547387?v=4" width="100px;" alt=""/> |
+|     [오진영](https://github.com/JJJJ55)     |     [윤가은](https://github.com/yungan9)     |     [송광호](https://github.com/jcw1031)     |     [강예린](https://github.com/kyer5)     |
+| Design <br> Client Develop | Design <br> Client Develop | Server <br> DataBase | Server <br> DataBase |
+  
+</div>
