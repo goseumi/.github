@@ -10,7 +10,7 @@
 |                  FrontEnd                  |                   FrontEnd                    |                  BackEnd                   |                  BackEnd                   |
 | :-----------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/89523520?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/100302974?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/84136901?v=4" width="100px;" alt=""/> | <img src="https://avatars.githubusercontent.com/u/105547387?v=4" width="100px;" alt=""/> |
-|     [오진영](https://github.com/JJJJ55)     |     [윤가은](https://github.com/yungan9)     |     [송광호](https://github.com/jcw1031)     |     [강예린](https://github.com/kyer5)     |
+|     [오진영](https://github.com/JJJJ55)     |     [윤가은](https://github.com/yungan9)     |     [송광호](https://github.com/skh990427)     |     [강예린](https://github.com/kyer5)     |
 | Design <br> Client Develop | Design <br> Client Develop | Server <br> DataBase | Server <br> DataBase |
   
 </div>
